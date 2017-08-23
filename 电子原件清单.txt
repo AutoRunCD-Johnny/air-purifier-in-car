@@ -1,0 +1,38 @@
+ver 1.0:
+
+resistor 
+150k x2
+100k x2
+10k x2
+1k x1
+220 x1
+150 x1
+100 x1 
+
+capacitor
+220uf x1
+47uf x1
+0.1uf x2
+104 x3
+103 x1
+
+BJT and diode
+s8550 x1
+TIP41 x2 (s8050 x2 in ver 0.9)
+1N4001 x2
+1N4148 x1
+
+ICs
+TL072 op-amp x1
+
+else
+arduino pro mini x1
+5v buck module x1
+HRS1H-S-DC5V relay x1
+HC-05 x1
+GP2Y1014AU0F dust sensor x1
+MS1100 VOC sensor x1
+RGB led x1
+toggle switch x1
+switch x1
+Nidec Gamma 30 A34123 12V/0.47A 9733 blowing fan x2
